@@ -1,0 +1,409 @@
+,difference_in_hospitalizations,discharge_year,dual_status,expected_pqi_hospitalizations,expected_rate_per_100_000_people,medicaid_pqi_hospitalizations,observed_rate_per_100_000_people,pqi_name,pqi_number,risk_adjusted_rate_per_100_000_people,zip_code,zip_code_medicaid_population
+4,,2011,Total,,,17123,846.82,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,,Statewide,2022036
+12,,2011,Total,,,2347,134.52,Asthma in Younger Adults,PQI_15,,Statewide,1744777
+22,-154.21,2011,Total,1954.21,890.58,1800,820.31,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,780.0,100,219430
+30,41.47,2011,Total,214.53,156.34,256,186.56,Asthma in Younger Adults,PQI_15,160.52,100,137223
+40,48.73,2011,Total,51.27,997.93,100,1946.28,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1651.57,101,5138
+48,-1.37,2011,Total,2.37,150.35,1,63.37,Asthma in Younger Adults,PQI_15,56.7,101,1578
+58,-2.79,2011,Total,3.79,740.36,1,195.31,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,223.4,102,512
+66,-0.31,2011,Total,0.31,131.87,0,0.0,Asthma in Younger Adults,PQI_15,0.0,102,232
+76,141.65,2011,Total,352.35,805.88,494,1129.84,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1187.24,103,43723
+84,13.71,2011,Total,49.29,125.48,63,160.38,Asthma in Younger Adults,PQI_15,171.93,103,39282
+94,1122.43,2011,Total,2588.57,980.19,3711,1405.21,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1214.01,104,264088
+102,273.85,2011,Total,439.15,181.22,713,294.22,Asthma in Younger Adults,PQI_15,218.4,104,242336
+113,-58.72,2011,Total,256.72,922.14,198,711.21,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,653.12,105,27840
+121,-13.91,2011,Total,33.91,164.26,20,96.89,Asthma in Younger Adults,PQI_15,79.35,105,20642
+131,-9.34,2011,Total,48.34,958.25,39,773.04,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,683.15,106,5045
+138,1.85,2011,Total,6.15,174.7,8,227.08,Asthma in Younger Adults,PQI_15,174.84,106,3523
+148,74.41,2011,Total,189.59,952.51,264,1326.37,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1179.19,107,19904
+156,4.78,2011,Total,30.22,172.41,35,199.67,Asthma in Younger Adults,PQI_15,155.78,107,17529
+167,-5.53,2011,Total,60.53,960.08,55,872.32,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,769.41,108,6305
+175,-0.13,2011,Total,7.13,176.26,7,172.97,Asthma in Younger Adults,PQI_15,132.0,108,4047
+185,-66.76,2011,Total,262.76,856.77,196,639.08,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,631.66,109,30669
+193,-11.19,2011,Total,40.19,110.43,29,79.69,Asthma in Younger Adults,PQI_15,97.07,109,36391
+203,-57.21,2011,Total,111.21,769.44,54,373.6,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,411.17,110,14454
+211,4.16,2011,Total,11.84,132.32,16,178.85,Asthma in Younger Adults,PQI_15,181.82,110,8946
+221,5.71,2011,Total,212.29,771.58,218,792.32,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,869.58,111,27514
+228,-10.52,2011,Total,28.52,128.25,18,80.94,Asthma in Younger Adults,PQI_15,84.9,111,22238
+238,-311.94,2011,Total,3620.94,851.72,3309,778.35,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,773.87,112,425132
+246,-35.91,2011,Total,509.91,135.48,474,125.94,Asthma in Younger Adults,PQI_15,125.04,112,376380
+257,-432.82,2011,Total,1195.82,622.34,763,397.09,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,540.32,113,192150
+265,-76.55,2011,Total,146.55,110.31,70,52.69,Asthma in Younger Adults,PQI_15,64.25,113,132848
+275,-286.46,2011,Total,876.46,803.89,590,541.15,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,570.05,114,109027
+283,-61.39,2011,Total,135.39,144.1,74,78.76,Asthma in Younger Adults,PQI_15,73.52,114,93960
+293,-1.96,2011,Total,395.96,900.3,394,895.84,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,842.63,115,43981
+301,-17.8,2011,Total,59.8,167.01,42,117.31,Asthma in Younger Adults,PQI_15,94.48,115,35804
+311,-36.48,2011,Total,198.48,989.79,162,807.86,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,691.17,116,20053
+319,-5.95,2011,Total,24.95,168.95,19,128.65,Asthma in Younger Adults,PQI_15,102.43,116,14769
+329,102.95,2011,Total,625.05,820.59,728,955.74,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,986.29,117,76171
+337,-19.51,2011,Total,85.51,139.32,66,107.53,Asthma in Younger Adults,PQI_15,103.83,117,61377
+348,-6.88,2011,Total,25.88,675.53,19,495.95,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,621.71,118,3831
+356,1.48,2011,Total,2.52,109.25,4,173.54,Asthma in Younger Adults,PQI_15,213.67,118,2305
+366,47.56,2011,Total,112.44,839.62,160,1194.74,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1204.98,119,13392
+372,3.01,2011,Total,15.99,131.17,19,155.85,Asthma in Younger Adults,PQI_15,159.83,119,12191
+382,9.23,2011,Total,148.77,791.14,158,840.2,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,899.33,120,18805
+390,4.33,2011,Total,16.67,89.06,21,112.2,Asthma in Younger Adults,PQI_15,169.47,120,18717
+400,23.13,2011,Total,132.87,810.16,156,951.22,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,994.26,121,16400
+408,-2.0,2011,Total,17.0,99.61,15,87.9,Asthma in Younger Adults,PQI_15,118.7,121,17064
+418,-0.98,2011,Total,104.98,887.14,104,878.9,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,838.95,122,11833
+426,2.38,2011,Total,17.62,142.53,20,161.75,Asthma in Younger Adults,PQI_15,152.65,122,12365
+436,14.98,2011,Total,88.02,803.37,103,940.04,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,990.88,123,10957
+444,-4.84,2011,Total,13.84,119.47,9,77.67,Asthma in Younger Adults,PQI_15,87.45,123,11588
+454,19.01,2011,Total,105.99,835.32,125,985.11,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,998.67,124,12689
+462,-7.76,2011,Total,10.76,97.48,3,27.18,Asthma in Younger Adults,PQI_15,37.51,124,11036
+472,10.9,2011,Total,189.1,856.18,200,905.51,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,895.62,125,22087
+480,-1.96,2011,Total,23.96,119.39,22,109.64,Asthma in Younger Adults,PQI_15,123.54,125,20065
+490,16.94,2011,Total,50.06,903.2,67,1208.73,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1133.27,126,5543
+498,0.01,2011,Total,7.99,140.95,8,141.12,Asthma in Younger Adults,PQI_15,134.68,126,5669
+508,-23.43,2011,Total,73.43,867.93,50,591.02,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,576.64,127,8460
+516,-3.48,2011,Total,8.48,105.35,5,62.1,Asthma in Younger Adults,PQI_15,79.29,127,8052
+526,-63.2,2011,Total,112.2,797.95,49,348.48,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,369.82,128,14061
+534,-7.42,2011,Total,10.42,76.87,3,22.14,Asthma in Younger Adults,PQI_15,38.74,128,13551
+544,75.8,2011,Total,106.2,806.11,182,1381.51,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1451.28,129,13174
+552,10.32,2011,Total,9.68,74.62,20,154.26,Asthma in Younger Adults,PQI_15,278.07,129,12965
+562,0.56,2011,Total,156.44,778.67,157,781.44,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,849.84,130,20091
+570,-4.98,2011,Total,18.98,80.4,14,59.29,Asthma in Younger Adults,PQI_15,99.2,130,23613
+580,-0.64,2011,Total,80.64,777.37,80,771.16,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,840.05,131,10374
+588,-3.02,2011,Total,9.02,76.59,6,50.93,Asthma in Younger Adults,PQI_15,89.44,131,11782
+598,3.27,2011,Total,199.73,876.13,203,890.47,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,860.67,132,22797
+606,-9.72,2011,Total,32.72,130.36,23,91.64,Asthma in Younger Adults,PQI_15,94.57,132,25097
+616,0.77,2011,Total,85.23,790.93,86,798.07,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,854.46,133,10776
+624,-3.81,2011,Total,7.81,74.83,4,38.35,Asthma in Younger Adults,PQI_15,68.93,133,10431
+634,1.44,2011,Total,107.56,797.08,109,807.77,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,858.17,134,13494
+642,2.05,2011,Total,9.95,78.15,12,94.26,Asthma in Younger Adults,PQI_15,162.25,134,12731
+652,55.96,2011,Total,85.04,812.93,141,1347.86,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1404.05,135,10461
+660,1.34,2011,Total,11.66,112.47,13,125.37,Asthma in Younger Adults,PQI_15,149.95,135,10369
+671,43.19,2011,Total,140.81,806.85,184,1054.32,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1106.54,136,17452
+679,-7.2,2011,Total,14.2,75.62,7,37.27,Asthma in Younger Adults,PQI_15,66.3,136,18782
+689,7.27,2011,Total,77.73,793.91,85,868.14,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,926.0,137,9791
+696,1.14,2011,Total,8.86,84.82,10,95.7,Asthma in Younger Adults,PQI_15,151.77,137,10449
+706,-7.15,2011,Total,82.15,797.15,75,727.73,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,773.08,138,10306
+714,-4.69,2011,Total,7.69,75.54,3,29.46,Asthma in Younger Adults,PQI_15,52.45,138,10185
+724,8.83,2011,Total,65.17,819.18,74,930.12,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,961.5,139,7956
+732,1.35,2011,Total,8.65,101.54,10,117.41,Asthma in Younger Adults,PQI_15,155.54,139,8517
+742,-48.35,2011,Total,174.35,786.38,126,568.31,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,611.99,140,22171
+750,-3.95,2011,Total,17.95,89.97,14,70.16,Asthma in Younger Adults,PQI_15,104.9,140,19953
+760,-38.21,2011,Total,81.21,789.71,43,418.17,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,448.41,141,10283
+768,-4.23,2011,Total,8.23,83.54,4,40.62,Asthma in Younger Adults,PQI_15,65.4,141,9848
+778,-61.17,2011,Total,500.17,933.65,439,819.47,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,743.26,142,53571
+786,-17.1,2011,Total,73.1,134.93,56,103.37,Asthma in Younger Adults,PQI_15,103.05,142,54175
+796,-12.5,2011,Total,64.5,894.36,52,721.02,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,682.69,143,7212
+804,3.87,2011,Total,9.13,119.4,13,170.09,Asthma in Younger Adults,PQI_15,191.62,143,7643
+814,-23.62,2011,Total,119.62,796.22,96,638.98,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,679.58,144,15024
+822,2.98,2011,Total,14.02,88.23,17,106.96,Asthma in Younger Adults,PQI_15,163.07,144,15894
+832,-30.95,2011,Total,112.95,795.85,82,577.79,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,614.79,145,14192
+840,-6.36,2011,Total,11.36,84.37,5,37.15,Asthma in Younger Adults,PQI_15,59.23,145,13459
+850,-120.6,2011,Total,413.6,937.62,293,664.22,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,599.9,146,44112
+858,-20.29,2011,Total,69.29,149.2,49,105.51,Asthma in Younger Adults,PQI_15,95.12,146,46442
+868,14.6,2011,Total,129.4,805.09,144,895.91,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,942.35,147,16073
+876,-2.48,2011,Total,13.48,84.49,11,68.95,Asthma in Younger Adults,PQI_15,109.77,147,15953
+886,-17.66,2011,Total,147.66,811.05,130,714.05,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,745.55,148,18206
+894,-7.64,2011,Total,14.64,77.86,7,37.22,Asthma in Younger Adults,PQI_15,64.31,148,18806
+904,30.31,2011,Total,44.69,839.25,75,1408.45,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1421.16,149,5325
+912,3.39,2011,Total,5.61,93.96,9,150.65,Asthma in Younger Adults,PQI_15,215.68,149,5974
+922,,2012,Total,,,17288,829.18,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,,Statewide,2084944
+930,,2012,Total,,,2511,140.49,Asthma in Younger Adults,PQI_15,,Statewide,1787331
+940,9.43,2012,Total,1914.57,872.3,1924,876.6,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,833.27,100,219485
+948,57.53,2012,Total,221.47,163.06,279,205.41,Asthma in Younger Adults,PQI_15,176.98,100,135823
+958,36.69,2012,Total,49.31,983.06,86,1714.51,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1446.14,101,5016
+966,8.6,2012,Total,2.4,159.35,11,730.9,Asthma in Younger Adults,PQI_15,644.39,101,1505
+976,0.07,2012,Total,3.93,737.72,4,750.47,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,843.51,102,533
+984,0.64,2012,Total,0.36,142.99,1,400.0,Asthma in Younger Adults,PQI_15,393.0,102,250
+994,96.98,2012,Total,362.02,797.35,459,1010.95,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1051.31,103,45403
+1002,26.1,2012,Total,51.9,132.43,78,199.03,Asthma in Younger Adults,PQI_15,211.14,103,39190
+1012,807.25,2012,Total,2601.75,952.91,3409,1248.57,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1086.46,104,273032
+1020,268.04,2012,Total,470.96,187.86,739,294.78,Asthma in Younger Adults,PQI_15,220.44,104,250693
+1030,-72.84,2012,Total,267.84,904.77,195,658.72,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,603.68,105,29603
+1038,-22.0,2012,Total,38.0,173.39,16,73.01,Asthma in Younger Adults,PQI_15,59.15,105,21915
+1048,-10.6,2012,Total,50.6,943.13,40,745.57,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,655.5,106,5365
+1056,-2.91,2012,Total,6.91,182.06,4,105.46,Asthma in Younger Adults,PQI_15,81.38,106,3793
+1066,77.84,2012,Total,197.16,924.53,275,1289.57,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1156.57,107,21325
+1074,-5.44,2012,Total,33.44,179.06,28,149.95,Asthma in Younger Adults,PQI_15,117.65,107,18673
+1084,-26.33,2012,Total,61.33,934.2,35,533.13,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,473.2,108,6565
+1092,-3.84,2012,Total,7.84,183.79,4,93.79,Asthma in Younger Adults,PQI_15,71.69,108,4265
+1102,-72.45,2012,Total,271.45,836.54,199,613.27,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,607.88,109,32449
+1110,-14.87,2012,Total,44.87,117.86,30,78.79,Asthma in Younger Adults,PQI_15,93.92,109,38074
+1120,-36.58,2012,Total,116.58,754.77,80,517.93,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,569.0,110,15446
+1128,-4.96,2012,Total,12.96,137.17,8,84.68,Asthma in Younger Adults,PQI_15,86.73,110,9447
+1139,11.39,2012,Total,209.61,748.49,221,789.14,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,874.22,111,28005
+1147,-9.94,2012,Total,28.94,129.61,19,85.1,Asthma in Younger Adults,PQI_15,92.24,111,22327
+1157,-61.46,2012,Total,3607.46,834.0,3546,819.79,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,815.06,112,432552
+1165,-64.2,2012,Total,534.2,140.56,470,123.67,Asthma in Younger Adults,PQI_15,123.61,112,380057
+1176,-396.19,2012,Total,1197.19,606.67,801,405.9,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,554.78,113,197339
+1184,-72.27,2012,Total,145.27,107.82,73,54.18,Asthma in Younger Adults,PQI_15,70.6,113,134729
+1194,-264.98,2012,Total,889.98,788.28,625,553.58,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,582.31,114,112901
+1201,-30.48,2012,Total,141.48,147.77,111,115.94,Asthma in Younger Adults,PQI_15,110.22,114,95738
+1211,-9.56,2012,Total,416.56,882.63,407,862.38,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,810.16,115,47195
+1219,-10.5,2012,Total,66.5,174.38,56,146.86,Asthma in Younger Adults,PQI_15,118.31,115,38132
+1229,38.66,2012,Total,197.34,979.77,236,1171.74,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,991.64,116,20141
+1237,0.96,2012,Total,26.04,179.1,27,185.68,Asthma in Younger Adults,PQI_15,145.65,116,14541
+1247,-34.0,2012,Total,660.0,803.18,626,761.8,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,786.47,117,82174
+1255,-19.1,2012,Total,97.1,146.35,78,117.55,Asthma in Younger Adults,PQI_15,112.85,117,66352
+1265,-14.22,2012,Total,27.22,657.97,13,314.24,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,396.0,118,4137
+1272,1.32,2012,Total,2.68,108.81,4,162.6,Asthma in Younger Adults,PQI_15,209.95,118,2460
+1282,55.02,2012,Total,115.98,824.43,171,1215.52,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1222.53,119,14068
+1290,10.75,2012,Total,18.25,140.27,29,222.89,Asthma in Younger Adults,PQI_15,223.24,119,13011
+1300,-6.83,2012,Total,152.83,776.98,146,742.25,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,792.12,120,19670
+1308,-2.51,2012,Total,18.51,95.49,16,82.56,Asthma in Younger Adults,PQI_15,121.46,120,19380
+1318,-4.82,2012,Total,136.82,793.66,132,765.71,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,799.98,121,17239
+1326,8.99,2012,Total,19.01,108.59,28,159.95,Asthma in Younger Adults,PQI_15,206.93,121,17505
+1336,10.76,2012,Total,109.24,878.57,120,965.1,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,910.84,122,12434
+1344,-0.13,2012,Total,20.13,152.94,20,151.92,Asthma in Younger Adults,PQI_15,139.55,122,13165
+1354,-19.23,2012,Total,93.23,793.23,74,629.63,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,658.17,123,11753
+1362,-6.56,2012,Total,15.56,126.56,9,73.22,Asthma in Younger Adults,PQI_15,81.28,123,12292
+1372,3.13,2012,Total,110.87,824.63,114,847.9,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,852.58,124,13445
+1380,0.99,2012,Total,12.01,103.76,13,112.3,Asthma in Younger Adults,PQI_15,152.06,124,11576
+1390,-7.25,2012,Total,194.25,840.86,187,809.49,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,798.24,125,23101
+1398,-9.0,2012,Total,27.0,127.1,18,84.72,Asthma in Younger Adults,PQI_15,93.64,125,21247
+1408,8.48,2012,Total,51.52,892.3,60,1039.14,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,965.63,126,5774
+1416,2.75,2012,Total,9.25,151.27,12,196.34,Asthma in Younger Adults,PQI_15,182.34,126,6112
+1426,6.47,2012,Total,75.53,852.47,82,925.51,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,900.23,127,8860
+1434,-0.61,2012,Total,9.61,112.32,9,105.15,Asthma in Younger Adults,PQI_15,131.52,127,8559
+1444,2.84,2012,Total,113.16,778.76,116,798.29,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,849.98,128,14531
+1452,1.58,2012,Total,11.42,82.32,13,93.74,Asthma in Younger Adults,PQI_15,159.98,128,13868
+1462,55.97,2012,Total,109.03,793.13,165,1200.26,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1254.82,129,13747
+1470,-1.73,2012,Total,10.73,81.93,9,68.75,Asthma in Younger Adults,PQI_15,117.88,129,13091
+1480,-4.75,2012,Total,160.75,765.6,156,742.96,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,804.67,130,20997
+1488,-5.08,2012,Total,21.08,87.05,16,66.09,Asthma in Younger Adults,PQI_15,106.66,130,24209
+1498,-17.64,2012,Total,81.64,764.39,64,599.19,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,649.99,131,10681
+1506,2.09,2012,Total,9.91,82.54,12,99.96,Asthma in Younger Adults,PQI_15,170.13,131,12005
+1516,-2.34,2012,Total,204.34,858.16,202,848.35,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,819.71,132,23811
+1524,-22.02,2012,Total,37.02,139.87,15,56.67,Asthma in Younger Adults,PQI_15,56.92,132,26468
+1534,-8.37,2012,Total,86.37,773.76,78,698.8,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,748.85,133,11162
+1542,4.59,2012,Total,8.41,80.33,13,124.25,Asthma in Younger Adults,PQI_15,217.29,133,10463
+1552,43.53,2012,Total,109.47,779.09,153,1088.89,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1158.9,134,14051
+1560,-1.18,2012,Total,11.18,85.43,10,76.41,Asthma in Younger Adults,PQI_15,125.65,134,13088
+1570,29.66,2012,Total,87.34,797.51,117,1068.3,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1110.73,135,10952
+1578,14.96,2012,Total,13.04,118.84,28,255.13,Asthma in Younger Adults,PQI_15,301.6,135,10975
+1588,19.86,2012,Total,141.14,792.79,161,904.34,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,945.86,136,17803
+1596,-9.34,2012,Total,15.34,82.24,6,32.18,Asthma in Younger Adults,PQI_15,54.97,136,18647
+1606,-13.95,2012,Total,77.95,782.36,64,642.31,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,680.76,137,9964
+1614,-1.67,2012,Total,9.67,92.45,8,76.49,Asthma in Younger Adults,PQI_15,116.23,137,10459
+1624,15.0,2012,Total,82.0,786.06,97,929.83,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,980.84,138,10432
+1632,-4.34,2012,Total,8.34,81.76,4,39.2,Asthma in Younger Adults,PQI_15,67.35,138,10205
+1642,-3.98,2012,Total,66.98,816.18,63,767.73,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,779.96,139,8206
+1650,-3.42,2012,Total,9.42,111.5,6,71.06,Asthma in Younger Adults,PQI_15,89.53,139,8444
+1660,-55.77,2012,Total,175.77,772.13,120,527.15,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,566.1,140,22764
+1668,-8.98,2012,Total,19.98,97.47,11,53.67,Asthma in Younger Adults,PQI_15,77.37,140,20494
+1678,-13.93,2012,Total,81.93,778.08,68,645.77,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,688.19,141,10530
+1686,-5.02,2012,Total,9.02,90.02,4,39.93,Asthma in Younger Adults,PQI_15,62.31,141,10018
+1696,-88.49,2012,Total,508.49,918.15,420,758.37,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,684.88,142,55382
+1704,-25.28,2012,Total,80.28,144.7,55,99.13,Asthma in Younger Adults,PQI_15,96.24,142,55484
+1714,-6.13,2012,Total,66.13,881.92,60,800.21,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,752.36,143,7498
+1722,-1.17,2012,Total,10.17,130.7,9,115.65,Asthma in Younger Adults,PQI_15,124.31,143,7782
+1732,-29.67,2012,Total,122.67,785.32,93,595.39,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,628.65,144,15620
+1740,-9.66,2012,Total,15.66,94.81,6,36.32,Asthma in Younger Adults,PQI_15,53.81,144,16521
+1750,-34.08,2012,Total,117.08,785.59,83,556.93,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,587.84,145,14903
+1758,-10.01,2012,Total,13.01,91.44,3,21.09,Asthma in Younger Adults,PQI_15,32.4,145,14225
+1768,20.3,2012,Total,427.7,924.11,448,967.98,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,868.54,146,46282
+1776,-14.56,2012,Total,77.56,159.02,63,129.17,Asthma in Younger Adults,PQI_15,114.12,146,48772
+1786,-16.6,2012,Total,130.6,790.53,114,690.03,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,723.77,147,16521
+1794,-1.93,2012,Total,14.93,91.36,13,79.57,Asthma in Younger Adults,PQI_15,122.36,147,16338
+1804,-43.03,2012,Total,150.03,802.34,107,572.22,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,591.36,148,18699
+1812,-10.09,2012,Total,16.09,84.68,6,31.59,Asthma in Younger Adults,PQI_15,52.4,148,18994
+1822,26.73,2012,Total,45.27,838.76,72,1334.07,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1318.85,149,5397
+1830,4.87,2012,Total,6.13,102.72,11,184.32,Asthma in Younger Adults,PQI_15,252.08,149,5968
+1846,,2013,Total,,,17562,814.37,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,,Statewide,2156518
+1870,,2013,Total,,,2461,132.32,Asthma in Younger Adults,PQI_15,,Statewide,1859907
+1900,167.84,2013,Total,1953.16,884.39,2121,960.39,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,884.35,100,220848
+1924,45.08,2013,Total,210.92,153.39,256,186.17,Asthma in Younger Adults,PQI_15,160.6,100,137506
+1955,2.08,2013,Total,34.92,912.34,37,966.56,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,862.76,101,3828
+1978,4.8,2013,Total,2.2,146.69,7,467.29,Asthma in Younger Adults,PQI_15,421.52,101,1498
+2009,23.25,2013,Total,18.75,1043.2,42,2337.23,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1824.54,102,1797
+2032,13.47,2013,Total,0.53,158.32,14,4154.3,Asthma in Younger Adults,PQI_15,3472.04,102,337
+2062,102.83,2013,Total,364.17,776.99,467,996.39,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1044.32,103,46869
+2086,9.08,2013,Total,50.92,127.24,60,149.94,Asthma in Younger Adults,PQI_15,155.92,103,40016
+2116,864.49,2013,Total,2689.51,949.86,3554,1255.17,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1076.13,104,283149
+2140,356.59,2013,Total,450.41,172.03,807,308.22,Asthma in Younger Adults,PQI_15,237.08,104,261825
+2170,-98.68,2013,Total,279.68,887.53,181,574.38,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,527.03,105,31512
+2194,-8.85,2013,Total,37.85,158.28,29,121.29,Asthma in Younger Adults,PQI_15,101.39,105,23910
+2224,-12.17,2013,Total,51.17,927.17,39,706.65,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,620.68,106,5519
+2248,-2.75,2013,Total,6.75,164.71,4,97.63,Asthma in Younger Adults,PQI_15,78.43,106,4097
+2278,89.48,2013,Total,205.52,913.71,295,1311.52,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1168.93,107,22493
+2302,-1.56,2013,Total,32.56,163.32,31,155.49,Asthma in Younger Adults,PQI_15,125.97,107,19937
+2333,-33.27,2013,Total,63.27,923.13,30,437.7,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,386.13,108,6854
+2357,1.23,2013,Total,7.77,165.53,9,191.82,Asthma in Younger Adults,PQI_15,153.33,108,4692
+2387,-62.87,2013,Total,274.87,807.45,212,622.76,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,628.1,109,34042
+2411,-27.11,2013,Total,45.11,111.03,18,44.3,Asthma in Younger Adults,PQI_15,52.8,109,40632
+2441,-36.63,2013,Total,125.63,741.95,89,525.63,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,576.94,110,16932
+2465,3.38,2013,Total,13.62,129.09,17,161.12,Asthma in Younger Adults,PQI_15,165.16,110,10551
+2496,-16.82,2013,Total,212.82,746.95,196,687.91,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,750.0,111,28492
+2520,-18.68,2013,Total,28.68,125.53,10,43.77,Asthma in Younger Adults,PQI_15,46.13,111,22848
+2552,-65.74,2013,Total,3617.74,816.46,3552,801.62,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,799.57,112,443102
+2575,-42.93,2013,Total,518.93,133.09,476,122.08,Asthma in Younger Adults,PQI_15,121.37,112,389905
+2605,-484.86,2013,Total,1249.86,610.54,765,373.69,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,498.45,113,204713
+2627,-73.48,2013,Total,151.48,106.39,78,54.78,Asthma in Younger Adults,PQI_15,68.13,113,142385
+2658,-230.57,2013,Total,906.57,774.18,676,577.28,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,607.25,114,117101
+2680,-69.8,2013,Total,140.8,141.37,71,71.29,Asthma in Younger Adults,PQI_15,66.72,114,99596
+2710,-77.72,2013,Total,448.72,865.74,371,715.79,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,673.32,115,51831
+2734,-26.1,2013,Total,68.1,160.82,42,99.19,Asthma in Younger Adults,PQI_15,81.61,115,42344
+2764,52.1,2013,Total,191.9,961.3,244,1222.26,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1035.44,116,19963
+2787,6.66,2013,Total,24.34,166.22,31,211.69,Asthma in Younger Adults,PQI_15,168.51,116,14644
+2817,-91.29,2013,Total,684.29,781.94,593,677.62,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,705.72,117,87512
+2841,-20.5,2013,Total,97.5,136.78,77,108.02,Asthma in Younger Adults,PQI_15,104.49,117,71286
+2871,-8.94,2013,Total,29.94,649.73,21,455.73,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,571.21,118,4608
+2895,-0.81,2013,Total,2.81,102.86,2,73.18,Asthma in Younger Adults,PQI_15,94.14,118,2733
+2925,78.26,2013,Total,115.74,791.54,194,1326.77,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1365.03,119,14622
+2949,6.91,2013,Total,18.09,130.05,25,179.74,Asthma in Younger Adults,PQI_15,182.87,119,13909
+2979,-14.01,2013,Total,151.01,742.15,137,673.32,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,738.83,120,20347
+3003,-3.44,2013,Total,18.44,92.93,15,75.6,Asthma in Younger Adults,PQI_15,107.65,120,19840
+3033,38.77,2013,Total,135.23,759.96,174,977.86,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1047.87,121,17794
+3057,-4.34,2013,Total,18.34,103.17,14,78.77,Asthma in Younger Adults,PQI_15,101.03,121,17774
+3087,32.85,2013,Total,109.15,846.9,142,1101.8,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1059.48,122,12888
+3111,-1.62,2013,Total,19.62,143.47,18,131.6,Asthma in Younger Adults,PQI_15,121.37,122,13678
+3141,-3.36,2013,Total,93.36,760.61,90,733.26,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,785.08,123,12274
+3165,-13.06,2013,Total,16.06,123.17,3,23.01,Asthma in Younger Adults,PQI_15,24.72,123,13039
+3196,18.0,2013,Total,112.0,784.74,130,910.87,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,945.26,124,14272
+3220,-3.51,2013,Total,12.51,99.94,9,71.9,Asthma in Younger Adults,PQI_15,95.19,124,12517
+3250,-10.14,2013,Total,199.14,812.63,189,771.24,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,772.89,125,24506
+3274,-12.46,2013,Total,27.46,119.37,15,65.2,Asthma in Younger Adults,PQI_15,72.28,125,23005
+3304,10.36,2013,Total,52.64,863.01,63,1032.79,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,974.57,126,6100
+3328,2.07,2013,Total,8.93,139.47,11,171.74,Asthma in Younger Adults,PQI_15,162.93,126,6405
+3358,-3.14,2013,Total,74.14,815.05,71,780.56,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,779.91,127,9096
+3381,-3.52,2013,Total,9.52,106.61,6,67.22,Asthma in Younger Adults,PQI_15,83.43,127,8926
+3411,-7.28,2013,Total,111.28,738.59,104,690.3,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,761.12,128,15066
+3435,-4.69,2013,Total,11.69,81.33,7,48.71,Asthma in Younger Adults,PQI_15,79.24,128,14372
+3465,12.01,2013,Total,109.99,749.49,122,831.35,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,903.31,129,14675
+3489,-3.77,2013,Total,11.77,83.57,8,56.79,Asthma in Younger Adults,PQI_15,89.91,129,14087
+3519,10.91,2013,Total,157.09,728.54,168,779.11,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,870.9,130,21563
+3543,-1.42,2013,Total,21.42,85.41,20,79.74,Asthma in Younger Adults,PQI_15,123.54,130,25081
+3574,-2.67,2013,Total,80.67,728.11,78,704.03,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,787.44,131,11079
+3598,-4.01,2013,Total,10.01,81.01,6,48.58,Asthma in Younger Adults,PQI_15,79.35,131,12351
+3628,-12.5,2013,Total,203.5,826.85,191,776.08,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,764.36,132,24611
+3652,-4.19,2013,Total,35.19,130.22,31,114.72,Asthma in Younger Adults,PQI_15,116.57,132,27022
+3682,28.91,2013,Total,83.09,733.78,112,989.05,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1097.68,133,11324
+3705,-4.26,2013,Total,8.26,78.73,4,38.11,Asthma in Younger Adults,PQI_15,64.05,133,10496
+3735,11.39,2013,Total,108.61,740.43,120,818.05,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,899.74,134,14669
+3759,-6.77,2013,Total,11.77,84.77,5,36.03,Asthma in Younger Adults,PQI_15,56.23,134,13879
+3789,60.16,2013,Total,84.84,758.56,145,1296.49,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1391.88,135,11184
+3813,6.61,2013,Total,12.39,109.92,19,168.6,Asthma in Younger Adults,PQI_15,202.96,135,11269
+3843,23.06,2013,Total,139.94,751.33,163,875.12,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,948.54,136,18626
+3867,-4.64,2013,Total,15.64,82.22,11,57.83,Asthma in Younger Adults,PQI_15,93.06,136,19022
+3897,-0.37,2013,Total,76.37,744.34,76,740.74,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,810.43,137,10260
+3921,-2.55,2013,Total,9.55,88.51,7,64.87,Asthma in Younger Adults,PQI_15,96.99,137,10790
+3951,-1.4,2013,Total,79.4,746.05,78,732.88,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,799.99,138,10643
+3975,-3.07,2013,Total,8.07,79.3,5,49.15,Asthma in Younger Adults,PQI_15,82.01,138,10173
+4005,26.42,2013,Total,65.58,779.27,92,1093.16,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1142.39,139,8416
+4029,2.59,2013,Total,9.41,108.59,12,138.42,Asthma in Younger Adults,PQI_15,168.68,139,8669
+4059,-70.87,2013,Total,176.87,739.19,106,443.01,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,488.07,140,23927
+4083,-11.66,2013,Total,20.66,94.71,9,41.26,Asthma in Younger Adults,PQI_15,57.65,140,21812
+4113,-26.35,2013,Total,79.35,741.24,53,495.1,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,543.94,141,10705
+4137,-4.81,2013,Total,8.81,86.47,4,39.28,Asthma in Younger Adults,PQI_15,60.1,141,10184
+4168,-154.99,2013,Total,507.99,886.8,353,616.23,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,565.9,142,57284
+4192,-35.73,2013,Total,76.73,133.46,41,71.32,Asthma in Younger Adults,PQI_15,70.71,142,57490
+4222,-9.63,2013,Total,65.63,844.18,56,720.35,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,694.91,143,7774
+4245,-3.98,2013,Total,9.98,122.81,6,73.8,Asthma in Younger Adults,PQI_15,79.51,143,8130
+4275,-21.34,2013,Total,122.34,752.93,101,621.58,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,672.3,144,16249
+4299,-8.67,2013,Total,15.67,90.74,7,40.54,Asthma in Younger Adults,PQI_15,59.11,144,17268
+4329,-24.32,2013,Total,116.32,747.33,92,591.07,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,644.09,145,15565
+4353,-5.43,2013,Total,13.43,88.42,8,52.65,Asthma in Younger Adults,PQI_15,78.79,145,15194
+4383,-44.89,2013,Total,428.89,895.7,384,801.95,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,729.13,146,47883
+4408,-10.48,2013,Total,73.48,146.05,63,125.22,Asthma in Younger Adults,PQI_15,113.45,146,50310
+4438,-17.2,2013,Total,127.2,753.84,110,651.93,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,704.27,147,16873
+4461,-1.5,2013,Total,14.5,88.09,13,78.95,Asthma in Younger Adults,PQI_15,118.59,147,16466
+4492,-32.66,2013,Total,146.66,758.52,114,589.6,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,633.02,148,19335
+4516,-6.9,2013,Total,15.9,81.7,9,46.23,Asthma in Younger Adults,PQI_15,74.87,148,19467
+4546,23.51,2013,Total,45.49,792.2,69,1201.67,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1235.3,149,5742
+4569,4.57,2013,Total,6.43,98.33,11,168.22,Asthma in Younger Adults,PQI_15,226.36,149,6539
+4599,24.69,2014,TOTAL,2121.31,895.89,2146,906.32,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,820.39,100,236781
+4623,29.21,2014,TOTAL,209.79,136.66,239,155.69,Asthma in Younger Adults,PQI_15,138.0,100,153513
+4653,0.41,2014,TOTAL,38.59,899.09,39,908.67,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,819.59,101,4292
+4677,-0.51,2014,TOTAL,3.51,128.25,3,109.53,Asthma in Younger Adults,PQI_15,103.45,101,2739
+4707,33.42,2014,TOTAL,22.58,1128.93,56,2800.0,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,2011.34,102,2000
+4731,0.39,2014,TOTAL,0.61,141.68,1,233.64,Asthma in Younger Adults,PQI_15,199.77,102,428
+4761,39.63,2014,TOTAL,404.37,778.41,444,854.7,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,890.43,103,51948
+4785,22.63,2014,TOTAL,52.37,116.2,75,166.41,Asthma in Younger Adults,PQI_15,173.49,103,45069
+4816,1134.64,2014,TOTAL,2909.36,945.54,4044,1314.3,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1127.22,104,307693
+4840,468.36,2014,TOTAL,431.64,150.39,900,313.56,Asthma in Younger Adults,PQI_15,252.57,104,287025
+4870,-122.95,2014,TOTAL,334.95,855.61,212,541.55,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,513.28,105,39147
+4894,-21.3,2014,TOTAL,45.3,137.46,24,72.82,Asthma in Younger Adults,PQI_15,64.17,105,32957
+4924,-20.38,2014,TOTAL,62.38,871.19,42,586.59,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,546.03,106,7160
+4948,-8.48,2014,TOTAL,8.48,142.88,0,0.0,Asthma in Younger Adults,PQI_15,0.0,106,5934
+4978,62.19,2014,TOTAL,232.81,896.3,295,1135.71,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1027.56,107,25975
+5002,15.13,2014,TOTAL,34.87,143.73,50,206.11,Asthma in Younger Adults,PQI_15,173.71,107,24259
+5032,-17.41,2014,TOTAL,73.41,896.17,56,683.68,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,618.66,108,8191
+5055,-5.12,2014,TOTAL,9.12,140.96,4,61.8,Asthma in Younger Adults,PQI_15,53.11,108,6472
+5087,-92.59,2014,TOTAL,319.59,788.39,227,559.98,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,576.0,109,40537
+5112,-24.41,2014,TOTAL,52.41,105.01,28,56.1,Asthma in Younger Adults,PQI_15,64.72,109,49912
+5142,-75.54,2014,TOTAL,152.54,738.89,77,372.99,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,409.36,110,20644
+5165,-11.35,2014,TOTAL,17.35,119.26,6,41.25,Asthma in Younger Adults,PQI_15,41.9,110,14546
+5196,-16.15,2014,TOTAL,231.15,733.52,215,682.28,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,754.3,111,31512
+5220,-19.35,2014,TOTAL,29.35,114.5,10,39.01,Asthma in Younger Adults,PQI_15,41.27,111,25637
+5250,-80.99,2014,TOTAL,3900.99,811.59,3820,794.74,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,794.12,112,480658
+5273,-68.71,2014,TOTAL,527.71,122.57,459,106.61,Asthma in Younger Adults,PQI_15,105.36,112,430523
+5303,-491.26,2014,TOTAL,1388.26,600.97,897,388.3,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,523.98,113,231004
+5326,-84.78,2014,TOTAL,177.78,106.59,93,55.76,Asthma in Younger Adults,PQI_15,63.37,113,166791
+5357,-313.45,2014,TOTAL,972.45,738.74,659,500.62,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,549.56,114,131637
+5380,-61.62,2014,TOTAL,144.62,127.95,83,73.43,Asthma in Younger Adults,PQI_15,69.52,114,113031
+5410,-103.22,2014,TOTAL,547.22,853.58,444,692.58,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,657.99,115,64108
+5434,-19.8,2014,TOTAL,80.8,143.04,61,107.99,Asthma in Younger Adults,PQI_15,91.46,115,56487
+5465,-14.16,2014,TOTAL,212.16,969.91,198,905.18,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,756.84,116,21874
+5489,1.62,2014,TOTAL,24.38,148.51,26,158.36,Asthma in Younger Adults,PQI_15,129.17,116,16418
+5518,-107.38,2014,TOTAL,807.38,769.25,700,666.95,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,703.1,117,104956
+5541,-21.37,2014,TOTAL,113.37,120.94,92,98.14,Asthma in Younger Adults,PQI_15,98.3,117,93739
+5571,-11.92,2014,TOTAL,36.92,646.88,25,438.06,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,549.17,118,5707
+5595,-1.86,2014,TOTAL,3.86,100.16,2,51.93,Asthma in Younger Adults,PQI_15,62.81,118,3851
+5625,34.53,2014,TOTAL,141.47,778.37,176,968.36,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1008.89,119,18175
+5649,-3.96,2014,TOTAL,21.96,117.38,18,96.22,Asthma in Younger Adults,PQI_15,99.29,119,18708
+5679,13.16,2014,TOTAL,173.84,755.01,187,812.16,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,872.33,120,23025
+5703,-6.3,2014,TOTAL,20.3,89.59,14,61.79,Asthma in Younger Adults,PQI_15,83.54,120,22659
+5733,57.88,2014,TOTAL,156.12,766.08,214,1050.1,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1111.61,121,20379
+5757,7.48,2014,TOTAL,20.52,98.82,28,134.84,Asthma in Younger Adults,PQI_15,165.3,121,20765
+5787,32.34,2014,TOTAL,124.66,844.96,157,1064.12,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1021.3,122,14754
+5811,-5.85,2014,TOTAL,20.85,128.05,15,92.11,Asthma in Younger Adults,PQI_15,87.13,122,16285
+5841,20.14,2014,TOTAL,106.86,751.98,127,893.67,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,963.76,123,14211
+5865,-7.11,2014,TOTAL,17.11,110.96,10,64.84,Asthma in Younger Adults,PQI_15,70.79,123,15423
+5895,2.38,2014,TOTAL,135.62,791.14,138,805.04,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,825.2,124,17142
+5919,-9.33,2014,TOTAL,14.33,95.48,5,33.32,Asthma in Younger Adults,PQI_15,42.27,124,15007
+5950,3.18,2014,TOTAL,241.82,803.33,245,813.9,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,821.62,125,30102
+5974,1.6,2014,TOTAL,32.4,108.98,34,114.37,Asthma in Younger Adults,PQI_15,127.14,125,29727
+6005,3.91,2014,TOTAL,63.09,850.73,67,903.45,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,861.21,126,7416
+6029,-1.14,2014,TOTAL,10.14,125.87,9,111.68,Asthma in Younger Adults,PQI_15,107.47,126,8059
+6057,0.01,2014,TOTAL,87.99,823.43,88,823.51,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,811.03,127,10686
+6081,-0.29,2014,TOTAL,10.29,100.66,10,97.79,Asthma in Younger Adults,PQI_15,117.68,127,10226
+6111,20.25,2014,TOTAL,133.75,745.17,154,857.99,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,933.73,128,17949
+6135,-0.43,2014,TOTAL,13.43,81.3,13,78.69,Asthma in Younger Adults,PQI_15,117.24,128,16520
+6165,69.14,2014,TOTAL,122.86,764.98,192,1195.44,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1267.28,129,16061
+6189,-2.46,2014,TOTAL,12.46,82.58,10,66.25,Asthma in Younger Adults,PQI_15,97.18,129,15095
+6219,3.35,2014,TOTAL,184.65,739.81,188,753.24,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,825.67,130,24959
+6243,-6.92,2014,TOTAL,23.92,84.26,17,59.89,Asthma in Younger Adults,PQI_15,86.11,130,28384
+6273,4.85,2014,TOTAL,95.15,744.09,100,782.04,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,852.32,131,12787
+6297,-4.05,2014,TOTAL,11.05,79.22,7,50.18,Asthma in Younger Adults,PQI_15,76.72,131,13951
+6327,30.59,2014,TOTAL,230.41,840.15,261,951.69,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,918.61,132,27425
+6351,-18.71,2014,TOTAL,37.71,120.94,19,60.94,Asthma in Younger Adults,PQI_15,61.04,132,31179
+6381,-2.74,2014,TOTAL,94.74,745.08,92,723.5,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,787.46,133,12716
+6405,-1.22,2014,TOTAL,9.22,79.21,8,68.75,Asthma in Younger Adults,PQI_15,105.14,133,11636
+6436,9.08,2014,TOTAL,124.92,755.81,134,810.75,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,869.89,134,16528
+6459,-6.1,2014,TOTAL,13.1,84.46,7,45.14,Asthma in Younger Adults,PQI_15,64.74,134,15507
+6490,32.09,2014,TOTAL,93.91,771.95,126,1035.76,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1088.09,135,12165
+6514,2.06,2014,TOTAL,12.94,105.25,15,122.04,Asthma in Younger Adults,PQI_15,140.46,135,12291
+6543,49.99,2014,TOTAL,157.01,759.03,207,1000.68,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1069.12,136,20686
+6567,-4.14,2014,TOTAL,17.14,81.71,13,61.98,Asthma in Younger Adults,PQI_15,91.89,136,20974
+6597,-0.25,2014,TOTAL,89.25,762.43,89,760.29,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,808.68,137,11706
+6621,-5.2,2014,TOTAL,10.2,86.79,5,42.56,Asthma in Younger Adults,PQI_15,59.4,137,11749
+6651,-7.72,2014,TOTAL,89.72,759.53,82,694.15,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,741.14,138,11813
+6675,-6.89,2014,TOTAL,8.89,79.99,2,17.99,Asthma in Younger Adults,PQI_15,27.24,138,11118
+6705,9.85,2014,TOTAL,73.15,801.48,83,909.39,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,920.14,139,9127
+6729,7.29,2014,TOTAL,9.71,104.0,17,182.13,Asthma in Younger Adults,PQI_15,212.14,139,9334
+6759,-39.63,2014,TOTAL,208.63,759.46,169,615.19,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,656.91,140,27471
+6783,-13.85,2014,TOTAL,22.85,89.78,9,35.37,Asthma in Younger Adults,PQI_15,47.72,140,25448
+6813,-27.97,2014,TOTAL,93.97,757.43,66,531.96,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,569.55,141,12407
+6837,-4.98,2014,TOTAL,9.98,83.99,5,42.06,Asthma in Younger Adults,PQI_15,60.67,141,11887
+6867,-93.15,2014,TOTAL,581.15,907.29,488,761.87,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,680.97,142,64053
+6891,-36.88,2014,TOTAL,81.88,124.36,45,68.35,Asthma in Younger Adults,PQI_15,66.57,142,65842
+6921,12.39,2014,TOTAL,73.61,854.45,86,998.26,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,947.44,143,8615
+6945,-6.44,2014,TOTAL,10.44,116.45,4,44.61,Asthma in Younger Adults,PQI_15,46.41,143,8966
+6976,-11.76,2014,TOTAL,145.76,769.2,134,707.16,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,745.54,144,18949
+7000,-5.77,2014,TOTAL,17.77,88.46,12,59.73,Asthma in Younger Adults,PQI_15,81.78,144,20092
+7031,-14.82,2014,TOTAL,142.82,765.25,128,685.85,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,726.81,145,18663
+7054,-5.46,2014,TOTAL,15.46,85.12,10,55.06,Asthma in Younger Adults,PQI_15,78.36,145,18162
+7084,-85.44,2014,TOTAL,499.44,923.27,414,765.33,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,672.23,146,54094
+7107,-26.7,2014,TOTAL,78.7,134.58,52,88.92,Asthma in Younger Adults,PQI_15,80.04,146,58479
+7137,-9.25,2014,TOTAL,145.25,776.85,136,727.39,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,759.32,147,18697
+7161,-5.23,2014,TOTAL,15.23,84.88,10,55.75,Asthma in Younger Adults,PQI_15,79.56,147,17937
+7191,19.83,2014,TOTAL,168.17,769.34,188,860.06,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,906.58,148,21859
+7214,-11.95,2014,TOTAL,17.95,81.68,6,27.3,Asthma in Younger Adults,PQI_15,40.49,148,21974
+7244,36.19,2014,TOTAL,51.81,801.12,88,1360.75,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,1377.46,149,6467
+7268,0.26,2014,TOTAL,6.74,95.89,7,99.53,Asthma in Younger Adults,PQI_15,125.73,149,7033
+7298,0.0,2014,TOTAL,19600.0,810.95,19600,810.95,Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults,PQI_05,810.95,Statewide,2416911
+7322,0.0,2014,TOTAL,2592.0,121.14,2592,121.14,Asthma in Younger Adults,PQI_15,121.14,Statewide,2139748
